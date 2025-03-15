@@ -89,5 +89,3 @@ $ git push
 ```
 
 This will fetch the latest changes from the `JS` and `CSS` repositories and update them in your main project.
-
-Let me know if you need any modifications!

@@ -27,8 +27,8 @@ Git is a **version control system** that’s super helpful for developers. It le
 #### **Step 2: Clone the Repository to Your Computer**
 
 1. Once your repository is created, go to its main page on GitHub.
-2. Click the **"Code"** button and copy the URL (you can use either HTTPS or SSH, depending on your preference).
-3. Open your **Terminal** (if you’re on Mac/Linux) or **Command Prompt/Git Bash** (if you’re on Windows).
+2. Click the **"Code"** button and copy the URL.
+3. Open your **Terminal** or **Command Prompt/Git Bash**.
 4. Run the following command to clone the repository to your local machine:
 
    ```bash
@@ -46,5 +46,3 @@ Git is a **version control system** that’s super helpful for developers. It le
    ```bash
    cd my-project
    ```
-
-How you have created your first repo

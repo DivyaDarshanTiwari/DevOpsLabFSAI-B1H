@@ -22,7 +22,7 @@ $ ls
 
 ## **Creating and Modifying Files**
 
-### **Created a `README.md` file using `touch`, listed files in the directory with `ls`, checked its contents with `cat` (which was empty initially), and then appended "Hello World" to it using `echo`:**
+### **Created a `README.md` file using `touch`, listed files in the directory with `ls`, checked its contents with `cat` (which was empty initially), and then added "Hello World" to it using `echo`:**
 
 ```bash
 $ touch README.md
@@ -33,7 +33,7 @@ $ echo "Hello World" >> README.md
 
 ---
 
-### **Displayed the contents of `README.md` using `cat`, and experimented with `echo` to print text and interpret escape sequences:**
+### **Displayed the contents of `README.md` using `cat`, and experimented with `echo` to print text and add escape sequences:**
 
 ```bash
 $ cat README.md
@@ -44,7 +44,7 @@ $ echo -e "hello \n me"
 
 ---
 
-### **Overwrote the contents of `README.md` with "Hello World 1" and then appended "content" to it:**
+### **Overwrote the contents of `README.md` with "Hello World 1" and then added "content" to it:**
 
 ```bash
 $ echo "Hello World 1" > README.md
@@ -234,5 +234,3 @@ $ git branch -D featureA
 ```
 
 ---
-
-This README provides a step-by-step guide to the commands used in the project, along with explanations of their purpose and outcomes.
