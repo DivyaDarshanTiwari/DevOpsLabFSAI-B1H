@@ -45,7 +45,7 @@ def read_root(data):
 return dict(hi=data, Location="Dehradun")
 
 if **name** == "**main**":
-uvicorn.run("main:app", host="0.0.0.0", port=80, reload = True)
+uvicorn.run("main:app", host="0.0.0.0", port=8000, reload = True)
 
 #### requirements.txt
 
@@ -77,11 +77,11 @@ docker images
 
 ### 8. Run the Docker Image
 
-docker run -p 8080:8080 a03825
+docker run -p 8000:8080 a03825
 
 Output in terminal:
 INFO: Will watch for changes in these directories: ['/app']
-INFO: Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO: Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
 INFO: Started reloader process [7] using StatReload
 INFO: Started server process [10]
 INFO: Waiting for application startup.
