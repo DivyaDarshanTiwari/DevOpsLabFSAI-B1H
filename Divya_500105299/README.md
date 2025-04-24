@@ -9,4 +9,4 @@
 | 5   | GIT submodules                        | [Lab-5](./LAB-5.md) |
 | 6   | fastapi dockerize                     | [Lab-6](./LAB-6.md) |
 | 7   | GIT fork and opensource contributions | [Lab-7](./LAB-7.md) |
-| 8   | Create a PipeLine using Jenking       | [Lab-8](./LAB-8.md) |
+| 8   | Create a PipeLine using Jenkins       | [Lab-8](./LAB-8.md) |
