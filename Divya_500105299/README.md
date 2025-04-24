@@ -2,7 +2,7 @@
 
 | No  | Experiment                            | Link                |
 | :-- | :------------------------------------ | :------------------ |
-| 1   | CI/CD basics                          |
+| 1   | CI/CD basics                          | [Lab-1](./Lab-1.md) |
 | 2   | WSL                                   | [Lab-2](./LAB-2.md) |
 | 3   | GIT basics                            | [Lab-3](./LAB-3.md) |
 | 4   | GIT Branching, Merge, Rebase,         | [Lab-4](./LAB-4.md) |
